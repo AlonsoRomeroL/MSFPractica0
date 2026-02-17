@@ -3,7 +3,7 @@
 # Práctica 0: Modelo del sistema respiratorio
 
 ## Información del estudiante
-Romero Landa Alonso \[21212749]; paul.vt@tijuana.tecn.mx
+Romero Landa Alonso \[21212749]; l21212749@tectijuana.edu.mx
 
 Modelado de Sistemas Fisiológicos
 
